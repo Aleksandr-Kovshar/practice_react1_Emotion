@@ -26,13 +26,15 @@
 
 import { PageTitle } from "components/pageTitle/PageTitle";
 import { EventBord } from "components/EventBord/EventBord";
-import upcomingEvents from "../upcoming-events.json";
+import upcomingEvents from "upcoming-events.json";
+import { Container } from './App.styled'
+
 
 export const App = () => {
   return (
-    <>
+    <Container>
       <PageTitle text="24th Core Worlds Coalition Conference" />
       <EventBord events={upcomingEvents} />
-    </>
+    </Container>
   );
 };
