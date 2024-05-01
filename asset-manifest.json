@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/practice_react1_Emotion/static/css/main.73da7a05.css",
+    "main.js": "/practice_react1_Emotion/static/js/main.6b377f3d.js",
+    "static/js/787.1b18ef02.chunk.js": "/practice_react1_Emotion/static/js/787.1b18ef02.chunk.js",
+    "index.html": "/practice_react1_Emotion/index.html",
+    "main.73da7a05.css.map": "/practice_react1_Emotion/static/css/main.73da7a05.css.map",
+    "main.6b377f3d.js.map": "/practice_react1_Emotion/static/js/main.6b377f3d.js.map",
+    "787.1b18ef02.chunk.js.map": "/practice_react1_Emotion/static/js/787.1b18ef02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73da7a05.css",
+    "static/js/main.6b377f3d.js"
+  ]
+}
